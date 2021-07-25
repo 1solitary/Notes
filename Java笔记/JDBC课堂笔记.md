@@ -176,6 +176,7 @@
 				3. 获取数据库连接对象 Connection
 				4. 定义sql
 					* 注意：sql的参数使用？作为占位符。 如：select * from user where username = ? and password = ?;
+					
 				5. 获取执行sql语句的对象 PreparedStatement  Connection.prepareStatement(String sql) 
 				6. 给？赋值：
 					* 方法： setXxx(参数1,参数2)
