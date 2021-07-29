@@ -187,7 +187,7 @@
 				7. 查询总记录数
 
 			* 代码：
-				
+```	JAVA
 				import cn.itcast.domain.Emp;
 				import cn.itcast.utils.JDBCUtils;
 				import org.junit.Test;
@@ -333,3 +333,4 @@
 				    }
 				
 				}
+```
