@@ -1,3 +1,0 @@
-correctmask
-nomask
-wrongmask
